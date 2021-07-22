@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:9-jre11 
+From tomcat:8-jre8 
 
 # Maintainer 
 MAINTAINER "donaldjamesjohnson@protonmail.com" 
